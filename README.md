@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=juliapazdziorek&theme=catppuccin_mocha" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapazdziorek&layout=compact&theme=catppuccin_mocha" alt="Top Langs" />
 </p>
 
 ## About me
@@ -23,6 +22,10 @@ A student at the Polish-Japanese Academy of Information Technology in Warsaw. I'
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg">
   <img width="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliapazdziorek&layout=compact&theme=catppuccin_mocha" alt="Top Langs" />
 </p>
 
 ## Featured projects 
