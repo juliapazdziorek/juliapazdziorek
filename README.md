@@ -9,7 +9,7 @@ A third-year student at the Polish-Japanese Academy of Information Technology in
 
 ### Currently working on
 I'm working on two engineering theses (BEng):
-- A team project on the game dev specialization — an **isometric game about post-apocalyptic mathematics**
+- A team project on the game dev specialization — an **isometric game about post-apocalyptic world**
 - A **parametrized poker agent** built as a **Unity package**, combining AI with game dev
 
 ### Skills & highlights
