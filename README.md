@@ -5,9 +5,14 @@
 </p>
 
 ## About me
-A student at the Polish-Japanese Academy of Information Technology in Warsaw. I'm most passionate about **game design and game dev**, and alongside that I'm growing into **artificial intelligence** and **data science**.
+A third-year student at the Polish-Japanese Academy of Information Technology in Warsaw. I'm most passionate about **game design and game dev**, and alongside that I'm growing into **artificial intelligence** and **data science**.
 
-## What I'm working on
+### Currently working on
+I'm working on two engineering theses (BEng):
+- A team project on the game dev specialization — an **isometric game about post-apocalyptic mathematics**
+- A **parametrized poker agent** built as a **Unity package**, combining AI with game dev
+
+### Skills & highlights
 - Building games in **Unity** (C#) and my own projects in **Java**
 - Working with **.NET** and **Entity Framework** on C# projects
 - Exploring **AI** and **data science** in Python
